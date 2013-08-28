@@ -1,0 +1,17 @@
+# yui-rails-asset
+
+The objective of this gem is to provide an easy way to integrate Yahoo's YUI library with the asset management pipeline introduced in Rails 3.1
+
+## Requirements
+
+Rails 3.1 or greater.
+
+## Installation
+
+Add the gem to your `Gemfile`:
+
+    gem 'yui-rails-asset'
+
+Update your gem bundle:
+
+    $ bundle install
